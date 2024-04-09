@@ -1,4 +1,7 @@
 # Documentación del Proyecto StockControl
+**Alumno:** Mercado, Isaac Pablo Rubén
+-----
+
 ## Descripción
 
 StockControl es una aplicación web de Django diseñada para gestionar el inventario de productos y la información de proveedores. Permite a los usuarios realizar las siguientes acciones:
