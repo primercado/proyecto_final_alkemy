@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Página de Inicio Stock Control</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+<div class="container mt-5">
+    <h1>Stock Control Inicio</h1>
+    <div class="list-group">
+        <a href="{% url 'listar_productos' %}" class="list-group-item list-group-item-action">Ver Productos</a>
+        <a href="{% url 'agregar_producto' %}" class="list-group-item list-group-item-action">Agregar Producto</a>
+        <a href="{% url 'listar_proveedores' %}" class="list-group-item list-group-item-action">Ver Proveedores</a>
+        <a href="{% url 'agregar_proveedor' %}" class="list-group-item list-group-item-action">Agregar Proveedor</a>
+    </div>
+</div>
+</body>
+</html>
