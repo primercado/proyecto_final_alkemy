@@ -22,7 +22,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
     bash
 
-git clone <url-del-repositorio>
+git clone <https://github.com/primercado/proyecto_final_alkemy>
 cd StockControl
 
 
